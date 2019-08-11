@@ -1,0 +1,15 @@
+{
+  "name": "django-storages-s3-env",
+  "version": "2019.8.11",
+  "description": "create env for django-storages S3",
+  "keywords": [
+    "django-storages",
+    "s3",
+    "env"
+  ],
+  "homepage": "https://github.com/andrewp-as-is/django-storages-s3-env",
+  "license": "Unlicense",
+  "bin": {
+    "storages-s3-create-env": "./scripts/storages-s3-create-env"
+  }
+}
