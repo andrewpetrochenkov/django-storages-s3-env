@@ -1,20 +1,21 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
-https://pypi.org/project/django-readme-generator/
+https://readme42.com
 -->
+
+
 
 [![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
 [![](https://img.shields.io/pypi/v/django-storages-s3-env.svg?maxAge=3600)](https://pypi.org/project/django-storages-s3-env/)
-[![](https://img.shields.io/npm/v/django-storages-s3-env.svg?maxAge=3600)](https://www.npmjs.com/package/django-storages-s3-env)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-storages-s3-env.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-storages-s3-env/)
+[![](https://img.shields.io/npm/v/django-storages-s3-env.svg?maxAge=3600)](https://www.npmjs.com/package/django-storages-s3-env)[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/django-storages-s3-env/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-storages-s3-env/actions)
 
-#### Installation
-```bash
-$ [sudo] npm i -g django-storages-s3-env
-```
+### Installation
 ```bash
 $ [sudo] pip install django-storages-s3-env
+```
+
+```bash
+$ [sudo] npm i -g django-storages-s3-env
 ```
 
 #### Pros
@@ -28,11 +29,6 @@ hard-coded environment variables names:
 +   `AWS_ACCESS_KEY_ID`
 +   `AWS_SECRET_ACCESS_KEY`
 
-#### Scripts usage
-command|`usage`
--|-
-`storages-s3-create-env` |`usage: storages-s3-create-env bucket`
-
 #### Examples
 `Makefile`, create env
 ```bash
@@ -45,5 +41,5 @@ all:
 +   [django-storages](https://django-storages.readthedocs.io/en/latest/index.html)
 
 <p align="center">
-    <a href="https://pypi.org/project/django-readme-generator/">django-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
